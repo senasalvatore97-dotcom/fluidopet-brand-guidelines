@@ -1,0 +1,91 @@
+FLUIDOPET — BLACK FRIDAY 2026
+Reference generate con lo strumento integrato di generazione immagini.
+
+01-offer-first-feed
+===================
+Use case: ads-marketing. Create ONE finished premium Italian Instagram feed advertisement, portrait 4:5 aspect ratio, target 1080x1350, edge-to-edge artwork, not a mockup or presentation board.
+Campaign: FluidoPet, Natural Care / Dark Edition, Black Friday 2026. Creative angle OFFER FIRST, a striking modern beauty-cosmetics campaign for pet haircare. Built to read instantly on a phone.
+Reference image 1 is the ACTUAL FLAT FLUIDOPET LOGO: trim its outer unused space for placement, retain its complete emblem, serif wordmark and tiny natural cosmetic formula baseline, original proportions, use ivory monochrome reversal on dark background. Never replace it with typed text or invent a logo.
+Images 2 and 3 are the actual products: green Puff @3 aluminum bottle and purple Ultra aluminum bottle. Preserve packaging shape, labels, colors and brand markings accurately. Both should be large in the final composition.
+Art direction: near-black evergreen #111A18 background, exquisite smooth studio light, warm ivory #F4F1E9, impactful soft lime #D8EE83. No dog in this execution. Designer typography with the rounded geometric bold character of Outfit, supporting DM Sans. Beautiful minimal hierarchy, maximum three text groups.
+Layout: modest complete logo top left within safe margins, small uppercase BLACK FRIDAY top right. A colossal lime “–30%” spans the full upper-middle width, crisp and uninterrupted. Below it a short two-line ivory headline. Lower half is a dynamic editorial still life: two LARGE overlapping product bottles at slight opposite angles, green on left, purple on right, a long natural shadow on the dark surface, bases nearing lower edge. Visible labels, luxurious realistic silver necks and caps. Let products occupy about 48% of canvas height; no tiny thumbnails, no boxes, no little product cards. Lower left/negative space carries dates and a discreet lime rounded CTA, without covering labels.
+Exact copy, ONLY:
+“BLACK FRIDAY”
+“–30%”
+“La cura di sempre.”
+“19–29 NOVEMBRE”
+“Scopri le offerte”
+No additional claims, no coupon, no 'su tutto', no fake seals. No gradients on text, cartoon decorations, confetti, neon, busy plants, frames or fake social interface. Generous outer margins 55px. Beautiful controlled imbalance and premium cosmetics photography, strong typographic impact.
+
+02-curly-care-feed
+==================
+Use case: ads-marketing. Create ONE finished premium Italian Instagram ad, 4:5 portrait aspect ratio target1080x1350, full bleed artwork, not a collage, slide or phone mockup. Campaign FluidoPet Black Friday 2026 / Natural Care, Dark Edition. Creative angle CURLY CARE, pet haircare.
+Reference1: actual flat FluidoPet logo with dog-hair emblem, serif wordmark, underline and small tagline. Preserve complete original graphic proportions and use ivory reversal, trim only unused outer space. Do not invent a different logo. Reference2: authentic green/turquoise aluminum Puff @3 shampoo bottle. Preserve original silhouette, silver top, printed botanical packaging, all main markings.
+Hero image: an irresistibly beautiful photoreal apricot toy poodle, natural tight curls, expressive healthy eyes looking directly into camera, calm charming face. Extreme close portrait, whole head and some upper body, very large on RIGHT HALF and lower middle, not isolated in a card. Fur beautifully lit warm directional studio light against deep evergreen #111A18 seamless background. The rightmost ear may be cropped, keep eyes and nose unobstructed.
+Art direction: high-end pet beauty campaign, bold editorial typography in Outfit ExtraBold style with DM Sans small details, punchy phone readability. The poodle occupies about 60% of art. Small complete logo top left. Upper left and mid-left use dramatic short stacked headline in warm ivory #F4F1E9:
+“Ogni riccio,”
+“la sua cura.”
+Keep text clear of face. A big but secondary soft-lime #D8EE83 “–30%” sits below left. Green Puff bottle stands LARGE in foreground lower left, visually about 32% canvas height, shadow integrated naturally, label visible. Lower zone has clean date line and a small pill CTA. Minor lime rounded accent behind discount is okay; no discount starbursts.
+Exact additional copy:
+“BLACK FRIDAY”
+“19–29 NOVEMBRE”
+“Scopri la routine”
+Use single clear discount only. No medical promises, no before/after, no 'su tutto', no generic paws or cartoons. Limit to the specified copy. Luxury commercial photograph but warm and affectionate, not generic stock. 55px outer safe margin, 70px at bottom. Natural photo dominates, message readable at phone scale.
+
+03-problem-solution-feed
+========================
+Use case: ads-marketing. Create one finished premium Instagram feed ad, portrait 4:5 ratio target1080x1350, full bleed artwork with precise graphic design. FluidoPet Black Friday2026, Natural Care, Dark Edition. Angle PROBLEM / SOLUTION.
+Image1 is supplied actual flat FluidoPet logo, keep original full silhouette, elegant serif wordmark and small baseline, crop outer whitespace only. Use ivory reversed logo. Image2 is authentic Ultra Scioglinodi shampoo in a silver bottle with purple botanical printed label, preserve product shape, artwork and principal text. Don't invent new packaging.
+Creative direction: modern beauty campaign with extraordinarily clear mobile hierarchy. Near-black forest green #111A18 background. At top small logo left and BLACK FRIDAY right. Left two thirds carry colossal clean ivory Outfit ExtraBold “Nodi?”; below, much smaller but clearly legible “Parti dalla routine.” on two lines. Use controlled white space, no presentation panels.
+Right and lower center: a very LARGE Ultra bottle leaning about12 degrees, from y400 to1190, studio lit silver cap and crisply visible real label. A broad smooth soft sage #AFC5B7 curved ribbon-like sculptural paper surface sweeps behind lower half of the bottle, suggesting a fluid grooming motion, modern and graphic. It is a solid matte surface, not hair, not a bow, no extra objects. A deep soft shadow anchors bottle. The purple product label is the only vivid color besides campaign lime.
+Below left headline place soft lime #D8EE83 rounded compact badge with very large exact “–30%”; under it clearly readable “19–29 NOVEMBRE”. Lower left CTA lime small rounded “Scopri Ultra”. Preserve at least60px border margins for all text. Main headline and discount must be legible at thumbnail size, only one of each.
+Exact copy only beyond package:
+“BLACK FRIDAY”
+“Nodi?”
+“Parti dalla routine.”
+“–30%”
+“19–29 NOVEMBRE”
+“Scopri Ultra”
+No before/after, no medical or instant result claim, no dog needed, no starbursts, no cards, no tiny decorative text, no frames or device mockups. Beautiful sophisticated print-quality typography, believable product photograph, decisive bold mobile advertising.
+
+04-natural-expertise-feed
+=========================
+Use case: ads-marketing. One finished photoreal premium pet-cosmetics Instagram feed advertisement, 4:5 portrait target1080x1350. Concept NATURAL EXPERTISE, FluidoPet Black Friday2026 / Natural Care, Dark Edition.
+Image1: actual FLUIDOPET flat logo, faithfully use full emblem, serif wordmark underline and small baseline, removing only unused white margin, in warm ivory reversal. Image2: exact green/turquoise Puff @3 silver aluminum bottle, retain original botanical label and texts, cap and physical proportions.
+Create an expensive beauty campaign still life, warm cinematic premium natural cosmetics. Dark evergreen #111A18 fading subtly into #202826, a single large authentic green bottle centered slightly RIGHT on a minimal dark stone ledge near bottom. Bottle fills48% of image height and label faces viewer. A small sculptural green EQUISETO/horsetail botanical stem, authentic thin segmented stalk with whorled thin leaves, softly lit behind the product on right, not generic tropical leaves. No new ingredients claims. Fresh soft reflected light on aluminum and subtle real shadows. Modern sumptuous, not rustic craft.
+Graphic layout: modest full ivory logo upper left, small BLACK FRIDAY upper right. Big elegant Outfit Bold ivory headline across upper third exactly three short lines:
+“La differenza”
+“è nella cura.”
+Actually use TWO lines if it fits beautifully; no other headline.
+Below on LEFT a bold soft-lime #D8EE83 “–30%”, strong but secondary to headline and product. Under discount “19–29 NOVEMBRE”. At bottom left a restrained lime rounded CTA “Scopri FluidoPet”.
+The composition should have quiet breathing room despite strong mobile readable typography: product dominates center/right, headline dominates top, offer block left. No drop shadow on text. Text sharp, generous line spacing, avoid fine long paragraphs. Colors limited to evergreen, warm ivory, softlime, original package and plant. No dog, no round deal stamp, no abstract fake certification, no '100% natural' added outside original packaging, no medical promise, no extra copy, no frame or UI. Treat like premium skincare art direction optimized for feed.
+
+05-everyday-care-feed
+=====================
+Use case: ads-marketing. Create ONE finished 4:5 portrait Instagram feed advertisement target1080x1350, full bleed, campaign FluidoPet Black Friday2026 / Natural Care Dark Edition. Angle EVERYDAY CARE. Social-first with warm relatable premium lifestyle photography and very legible short copy.
+Input1 supplied exact flat FluidoPet logo: faithfully retain emblem, original serif wordmark/underline and natural cosmetic formula baseline, remove only outer whitespace and use ivory reversal on dark. Input2 original pair of pink OneDay sprays, preserve the packaging shape and labels. For composition use ONLY the TALL bottle from input2, not both, preserving its silver spray nozzle and pink botanical ONE DAY label. Do not invent a different package.
+Visual: close lifestyle photograph of a content apricot miniature poodle resting calmly on ivory natural linen, receiving gentle grooming from a natural adult human hand with a wooden dog brush. Dog sits on the RIGHT, face and curly shoulder are large and clearly visible, cute but realistic not cartoon, relaxed eyes, mouth naturally closed. Brush touches side of shoulder away from face; anatomically correct hand and brush, no spraying near eyes. Background a softly lit home with a deep forest green textile, blurred. Gentle warm daylight. Make it feel intimate and natural, not stock family advertising. Dog and grooming gesture fill lower-right60% of image. A LARGE real pink OneDay spray bottle foreground lower left, about35% of artwork height, stands on the linen with natural shadow and sharply rendered label.
+Graphic layout: upper area smoothly dark #111A18 with sufficient uninterrupted negative space. Top-left modest complete ivory logo. Under it large clear Outfit Bold warm ivory title in two lines “Il suo momento” / “di cura.” Upper right a soft lime rounded capsule containing large “–30%”. Small uppercase “BLACK FRIDAY” above or below offer. Lower right on a subtle dark fade, with unobstructed dogface above, the exact clear date “19–29 NOVEMBRE” and lime rounded CTA “Scopri One Day”. Keep all text60px from edges. No tiny paragraphs. Text exactly as specified, no extra benefit promises, no fake results.
+Art direction is tactile and caring but campaign still has a dark green frame of negative space, ivorytype and lime offer; muted linen and realistic apricot fur. No icon decorations, no cartoonpaws, no collage, no framed photos, no phones, no elaborate set, no other products. Focus on one feeling, one product, one offer.
+
+04-natural-expertise-feed-final
+===============================
+Edit the first reference artwork, preserve it precisely except the font of its main two-line headline. This is a finished 4:5 FluidoPet social ad. Replace the SERIF headline “La differenza è nella cura.” with a bold rounded geometric SANS SERIF font closely matching OUTFIT BOLD. The title must read exactly “La differenza” on first line, “è nella cura.” on second line, warm ivory, similar size and position. No serifs on this headline, smooth modern sans letterforms. Keep everything else: logo at top left (reference2 actual logo), exact product bottle and its packaging, equiseto plant, dark background, stone, Black Friday, –30%, dates and CTA unchanged. Preserve 4:5 aspect ratio. The original FluidoPet logo must retain its original serif lettering, only the advertising headline becomes sans serif. No new text or design elements.
+
+06-offer-first-story
+====================
+Create a carefully RECOMPOSED 9:16 vertical Instagram STORY reference from the first attached 4:5 ad. This must be a genuine very tall 9:16 portrait artwork target1080x1920, NOT4:5 and NOT a phone mockup, not a simple crop. Use same exact campaign design language, two original real FluidoPet bottles, palette and text. Image2 actual flat logo, images3/4 original packages, preserve.
+CRITICAL STORY SAFE DESIGN: top15% (y0-288 on1080x1920) and bottom20% (y1536-1920) contain ONLY background/extended scenery, NO words, NO logo, NO critical productlabel. All essential content within central65%height, x70 to950. Dark evergreen background extends fully through blank top and bottom. Bottom may show the bottlebase shadow but no text. Do not draw safe zone lines.
+Layout of central content: at y300 a modest full ivory logo left and small BLACK FRIDAY right. At y480 gigantic softlime “–30%” fits width; y720 short bold ivory “La cura di sempre.”. Two large authentic green Puff and purple Ultra bottles in lower central region from y890 to1480, slightlyangled, originalbeautiful packaging and studio lighting. Date line “19–29 NOVEMBRE” and compact lime “Scopri le offerte” CTA in clear negative space at left aroundy1290to1470, do not cover product labels. Keep visual balance, bottles large enough, do not squeeze all elements in a narrow horizontalbanner.
+Rounded geometric Outfit extra bold sansserif advertisingtype, DM Sans supportingtype. Suppliedlogo must remain serif exact. Full bleed premium dark studio photograph, matte shadows, ivory #F4F1E9, lime #D8EE83. Offer highly readable. No extra claims, no phone, no outer frame, no icons or decoration. The extraheight must provide realistic top and bottom breathing room for actualStories interface.
+
+07-curly-care-story
+===================
+Recompose reference1 into a finished FULL BLEED 9:16 portrait InstagramStory campaign reference, target1080x1920, truly tall and narrow, not4:5, not a phone mockup. Keep the same adorable realistic apricot poodle, warm curls and camera gaze, exact suppliedflatlogo reference2, exact green Puff shampoo bottle reference3, same deepgreen ivory softlime campaign.
+STORY SAFE COMPOSITION essential: clear quiet darkgreen background in the TOP15% and BOTTOM20% of overallartwork. No essential text logo or labels there. Logo starts at abouty300 on1080x1920. All copy betweeny300 andy1500, inset80px sides. Image and fur can extend behind lower UI but face and productlabel must be in middle65% safeheight.
+At y300 small full exact ivory FluidoPet logo atleft, small BLACK FRIDAY at right. Stacked large OutfitExtraBold ivory headline atleft y490 “Ogni riccio,” / “la sua cura.”. Lime compact rounded “–30%” badge belowheadline y740, large enough to read. Big irresistible poodle portrait on right and center, eye level aroundy850, nose aroundy1050, nose and eyes not obscured by copy, right ear can crop atedge. The green authentic Puff bottle stands left foreground fromy900to1450, label clear. Bottom central safezone aroundy1370to1490 carries “19–29 NOVEMBRE” and limepill “Scopri la routine” to right ofbottle. Backgroundbelowy1550 onlydarkshadowandsoftfur, no text, offering spaceforUI. Upperempty15% smoothdarkgreen.
+Beautiful tactile high-end beauty photograph for petcare, warmnotplastic, readable generous type, clearhierarchy, originallogo/packaging, no unrelateddog, no inventedlabel, no paws, no confetti, noframes. Onlyexactcopylisted.
+
+07-curly-care-story-final
+=========================
+Edit this FluidoPet vertical Story ad. Make only one layout correction: move the DATE and CTA GROUP (“19–29 NOVEMBRE” plus lime rounded button “Scopri la routine”) UP by approximately170pixels, so the bottom edge of the CTA is at74% of total artwork height instead of84%. Place the date and button to the right of the bottle, over the dog chest BELOW its chin, keeping the nose and eyes unobstructed. Use a subtle dark green photo fade behind this text for clear contrast. At least the entire lowest22% of the image must contain no text or CTA. Remove the old lower date and button seamlessly. Keep everything else exactly as in reference: exact poodleface, fur, green bottle and packaging, top logo, BLACK FRIDAY, headline, –30%, overall atmosphere and composition. No new copy. Maintain tall portrait Story proportions, target9:16. Do not make the product smaller and don't move the face. It's a precise safe area correction.
